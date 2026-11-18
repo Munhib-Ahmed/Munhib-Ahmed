@@ -1,16 +1,14 @@
-## Hi there 👋
+# Munhib Ahmed
 
-<!--
-**Munhib-Ahmed/Munhib-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechatronics + AI Engineering @ Western University. Seeking Summer 2027 co-op.
 
-Here are some ideas to get you started:
+**Portfolio:** https://www.munhibahmed.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **Recycled plastic pelletizer** (ES 1050, team of 5): [project page](https://www.munhibahmed.com/projects/pelletizer) · [code](https://github.com/Munhib-Ahmed/pelletizer-controller)
+- **Face-tracking camera turret**: [project page](https://www.munhibahmed.com/projects/face-tracking-turret) · [code](https://github.com/Munhib-Ahmed/face-tracking-camera-turret)
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/munhib-ahmed)
